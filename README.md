@@ -39,9 +39,9 @@ Open-Bento-Me is built and maintained by Research AI+. Not just users—contribu
 
 | Platform | Link | What You'll Find |
 |----------|------|------------------|
-| 💬 Wechat group | <img src="public/icons/wechat_group.png" alt="Wechat QR" width="120"/> | Join 600+ AI Researchers, Engineers, Research Founders and AI Builders. Daily discussions, news, collaborations, fellow connections, community private events. |
-| 💡 Wechat subscription | <img src="public/icons/wechat-subscription.png" alt="Wechat subscription QR" width="120"/> | Deep, source-driven reads on frontier AI, from top-conference papers to industry reports, with both researchers' and engineers' focus on real world impact. Also updates, events and community highlights. |
-| 📚 Rednote | <img src="public/icons/rednote.png" alt="Rednote QR" width="120"/> | Deep, source-driven reads on frontier AI, from top-conference papers to industry reports, with both researchers' and engineers' focus on real world impact. Also updates, events and community highlights. |
+| 💬 Wechat group | <img src="wechat_group.png" alt="Wechat QR" width="120"/> | Join 600+ AI Researchers, Engineers, Research Founders and AI Builders. Daily discussions, news, collaborations, fellow connections, community private events. |
+| 💡 Wechat subscription | <img src="wechat-subscription.png" alt="Wechat subscription QR" width="120"/> | Deep, source-driven reads on frontier AI, from top-conference papers to industry reports, with both researchers' and engineers' focus on real world impact. Also updates, events and community highlights. |
+| 📚 Rednote | <img src="rednote.png" alt="Rednote QR" width="120"/> | Deep, source-driven reads on frontier AI, from top-conference papers to industry reports, with both researchers' and engineers' focus on real world impact. Also updates, events and community highlights. |
 | 📧 Newsletter (Substack) | [Subscribe](https://researchaiplusweekly.substack.com/) | Technical insights, community spotlights |
 | 🎤 Interviews | Research: Side B (included in Wechat Subscription / Substack Newsletter / Redenote) | Interviews with emerging researchers, engineers and technical founders |
 | 🌐 Events | [Event 1](https://x.com/Xander_zzzzz/status/1973298346531102755?s=20)<br/>[Event 2](https://mp.weixin.qq.com/s/9DpgcyvHe_Js1Lp8Am9saQ) | Salons, conference meetups, workshops, hackathons, talks, parties... More events recap on Wechat Subscription / Redenote |
